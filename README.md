@@ -6,4 +6,4 @@ The HTML directory contains the front end and a (unconnected) mongodb bridging f
 
 The Scanner directory contains the NodeJS file for receiving on the Pi and connecting to the Mongo DB. 
 
-The eddystone beacon directory has been unused. 
+The eddystone beacon directory remains unchanged. 
