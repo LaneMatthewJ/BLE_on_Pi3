@@ -5,3 +5,5 @@ This project contains a BLE tracking system from sample NodeJS programs to explo
 The HTML directory contains the front end and a (unconnected) mongodb bridging file. 
 
 The Scanner directory contains the NodeJS file for receiving on the Pi and connecting to the Mongo DB. 
+
+The eddystone beacon directory has been unused. 
